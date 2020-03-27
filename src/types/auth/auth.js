@@ -1,0 +1,3 @@
+export const STARTAUTH='STARTAUTH';
+export const SUCCESSAUTH='SUCCESSAUTH';
+export const ERRORAUTH='ERRORAUTH';
